@@ -1,16 +1,17 @@
-## Hi there 👋
+```markdown
+# labghost-ops
 
-<!--
-**labghost-ops/labghost-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+인프라 · 배포 자동화 · 온체인 도구.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<br>
+
+...여기까지 따라왔다면, 당신은 삭제된 커밋을 읽을 줄 아는 사람이다.
+
+지운다고 사라지지 않는다는 걸 나는 너무 늦게 배웠다.
+
+`flag{d3l3t3d_but_n0t_g0n3}`
+```
